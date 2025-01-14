@@ -1,6 +1,4 @@
+
 Nombre: Gustavo A morales M
 Correo : gustavoamoralesm@gmail.com
 Profesion : Diseño
-Año 2025
- git commit -m "se realiza cargue 2"
-
